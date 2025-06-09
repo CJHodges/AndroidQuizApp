@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+    <string name="nav_drawer_menu">Navigation drawer menu</string>
+    <string name="Favourites">Favourites</string>
+    <string name="All_Quizzes">All Quizzes</string>
+    <string name="login">Login</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="login_email">Login email:</string>
+    <string name="cancel">Cancel</string>
+    <string name="Delete_Quiz">Delete Quiz</string>
+
+    <string name="edit_Quiz">Edit Quiz</string>
+    <string name="options_menu">quiz options</string>
+    <string name="edit_quiz_title">Edit Quiz Title</string>
+    <string name="add_question">Add Question</string>
+    <string name="edit_question">Edit Question</string>
+    <string name="delete_question">Delete Question</string>
+    <string name="back">Back button</string>
+    <string name="edit_question_title">Edit Question Title</string>
+    <string name="answers">Answers</string>
+    <string name="delete_answer">Delete Answer</string>
+    <string name="add_answer">Add Answer</string>
+    <string name="save">Save</string>
+    <string name="next_question">Next Question</string>
+    <string name="home">Home</string>
+    <string name="quiz_progress">Quiz_Progress</string>
+    <string name="add_quiz">Add Quiz</string>
+    <string name="quiz_image">Quiz Image</string>
+
+
+</resources>
